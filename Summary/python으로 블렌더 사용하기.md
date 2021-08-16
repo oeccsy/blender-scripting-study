@@ -1,12 +1,12 @@
 # [Python으로 블렌더 사용]
 
-![Untitled](./Resources/1_1.png)
+![Untitled](../Resources/1_1.png)
 
 블렌더에서는 python을 통한 스크립팅 기능을 지원한다.
 
 이를 통해 블렌더에서 마우스나 키보드로 진행하던 동작을 파이썬 코드를 통해 진행할 수 있다.
 
-![Untitled](./Resources/1_2.png)
+![Untitled](../Resources/1_2.png)
 
 bpy, bgl, blf, mathutils 등의 모듈이 포함되어있다.
 
@@ -14,7 +14,7 @@ blender의 데이터는 blend-file 에 저장되며,
 
 그 파일의 data에 접근하려면 bpy.data 모듈을 사용해야한다.
 
-![Untitled](./Resources/1_3.png)
+![Untitled](../Resources/1_3.png)
 
 명령문을 입력하다가 Tab을 누르면 auto-complete기능을 사용할 수 있다.
 
@@ -28,7 +28,7 @@ blender의 데이터는 blend-file 에 저장되며,
 
 Developer Extras, Tooltips, Python Tooltips 를 모두 체크 하면 확인할 수 있다.
 
-![Untitled](./Resources/1_4.png)
+![Untitled](../Resources/1_4.png)
 
 해당 설정이 완료되면, 메뉴에서 선택한 기능의 코드를 확인할 수 있다.
 
@@ -42,7 +42,7 @@ Info 편집기에는 작업한 내용이 코드형태로 기록되고,
 
 해당 코드를 입력하면 내가 작업한 내용과 똑같은 작업이 진행된다.
 
-![Untitled](./Resources/1_5.png)
+![Untitled](../Resources/1_5.png)
 
 예시로 오브젝트를 (1,1,1) 으로 옮겨보았다.
 
